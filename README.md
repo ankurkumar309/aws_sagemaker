@@ -1,5 +1,6 @@
 # Sagemaker-practice
-Repository containing all the sagemaker assigments
+
+Repository containing all the sagemaker assigments of training
 
 Assignment 1: 
 Create a flask app that get the folder name and lists the filename present in the corresponding folder. (Use Boto3 for reading the contents of the folder)
